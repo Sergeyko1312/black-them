@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+}
+.forma {
+    background: url(./white_negate.jpg);
+}
+.vid {
+    margin-top: 50px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+    float: right;
+    margin-top: -50px;
+}
+a:hover {
+    color: blueviolet;
+    font-size: 170%;
+}
+.dan  {
+    width: 300px;
+    height: 30px;
+    color: white;
+    background-color: black;
+}
+.var {
+    display: flex;
+}
+legend {
+    font-size: 200%;
+    color: white;
+    background-color: black;
+}
+p {
+    margin-top: -22px;
+    margin-left: 20px;
+    font-size: 120%;
+    color: white;
+    background-color: black;
+    border: 2px solid yellow;
+}
+li {
+    list-style-type: none; 
+   }
+label {
+    font-size: 200%;
+    color: white;
+    background-color: black;
+    border: 2px solid orange;
+}
+::-webkit-input-placeholder{color: white;}
+button {
+    width: 20%;
+    font-size: 200%;
+    background-color: black;
+    color: white;
+}
+textarea {
+    background-color: black;
+}
